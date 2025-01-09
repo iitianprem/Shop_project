@@ -1,0 +1,19 @@
+body {
+    background-color: aqua;
+}
+button {
+    background-color: yellow;
+    border-radius: 12px;
+    border: none;
+    cursor: pointer;
+    size: 20px;
+}
+div {
+    margin: 30px; 
+    border-radius: 10px; 
+    background-color: white;
+    padding: 25px;
+}
+h1 {
+    text-align: center;
+}
